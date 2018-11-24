@@ -16,12 +16,12 @@
 title: Jekyll Powered Start Bootstrap Template
 email: vidhyav656@gmail.com
 description: Stylish Portfolio is a responsive, one page portfolio theme for Bootstrap created by Start Bootstrap. The theme features multiple content sections with an off canvas navigation menu.
-keywords:
-baseurl: "https://github.com/vidhyav656/startbootstrap-stylish-portfolio-jekyll" # the subpath of your site, e.g. /blog
-url: "https://vidhyav656.github.io/startbootstrap-stylish-portfolio-jekyll/" # the base hostname & protocol for your site, e.g. http://example.com
+keywords: jekyll, bootstrap, jekyll-site, jekyll-website, html, bootstrap4, bootstrap-4, bootstrap-theme, bootstrap-template, portfolio-website, portfolio-theme, open-source, free, google-anaytics, github-pages
+#baseurl: "https://vidhyav656.github.io/startbootstrap-stylish-portfolio-jekyll/" # the subpath of your site, e.g. /blog
+#url: "https://vidhyav656.github.io/startbootstrap-stylish-portfolio-jekyll/" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  vidhyav656
-
+google_analytics_tracking_id: UA-129738661-1
 # Build settings
 markdown: kramdown
 theme: minima
