@@ -1,0 +1,17 @@
+/* TEAM */
+	Developer:Vidhya
+	Contact: vidhyav656[at]gmail.com
+	Twitter: @callmevidhya
+	From:India
+
+/* THANKS */
+
+	(First) Name: BlackrockDigital
+	Github: https://github.com/BlackrockDigital	
+
+/* SITE */
+	Last update:2018/11/24
+	Language: English
+	Doctype: HTML5, CSS, Bootstrap-4
+	Components:Jquery
+	IDE: Sublime Text 3
