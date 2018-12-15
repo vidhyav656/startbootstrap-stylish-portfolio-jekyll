@@ -42,3 +42,5 @@ incremental: true
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include: ['.htaccess']
