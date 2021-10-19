@@ -2,21 +2,21 @@
     <div class="container">
         <ul class="list-inline mb-5">
             <li class="list-inline-item">
-                <a class="social-link rounded-circle text-white mr-3" href="#">
+                <a class="social-link rounded-circle text-white mr-3" href="https://facebook.com/{{ site.facebook_username }}" target="_blank">
               <i class="icon-social-facebook"></i>
             </a>
             </li>
             <li class="list-inline-item">
-                <a class="social-link rounded-circle text-white mr-3" href="#">
+                <a class="social-link rounded-circle text-white mr-3" href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
               <i class="icon-social-twitter"></i>
             </a>
             </li>
             <li class="list-inline-item">
-                <a class="social-link rounded-circle text-white" href="#">
+                <a class="social-link rounded-circle text-white" href="https://github.com/{{ site.github_username }}" target="_blank">
               <i class="icon-social-github"></i>
             </a>
             </li>
         </ul>
-        <p class="text-muted small mb-0">Copyright &copy; Your Website 2018</p>
+        <p class="text-muted small mb-0">Copyright &copy; Your Website {{ 'now' | date: "%Y" }}</p>
     </div>
 </footer>
