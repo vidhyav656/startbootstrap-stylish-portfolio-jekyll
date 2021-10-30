@@ -8,4 +8,4 @@ User-agent: *
 Disallow: /_drafts/
 Disallow: /_data/
 Disallow: /_test/
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
